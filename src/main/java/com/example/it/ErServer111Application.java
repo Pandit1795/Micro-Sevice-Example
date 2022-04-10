@@ -12,6 +12,8 @@ public class ErServer111Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ErServer111Application.class, args);
+
+System.out.println("HIII pandit");
 	}
 
 }
